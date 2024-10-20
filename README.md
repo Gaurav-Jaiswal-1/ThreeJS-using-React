@@ -59,7 +59,7 @@ Make sure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/3d-cylinder-threejs-react.git
+   https://github.com/Gaurav-Jaiswal-1/ThreeJS-using-React.git
    ```
 
 2. **Navigate to the project directory**:
